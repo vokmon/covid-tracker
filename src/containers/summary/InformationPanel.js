@@ -7,7 +7,7 @@ import style from './InformationPanel.module.scss';
 const InformationPanel = () => (
   <div className={style.container}>
     <Grid columns={2} doubling className={style.gridContainer}>
-      <Grid.Row>
+      <Grid.Row stretched>
         <Grid.Column width={6}>
           <Announcement />
         </Grid.Column>

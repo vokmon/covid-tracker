@@ -1,7 +1,5 @@
 import React from 'react';
 import {
-  Header,
-  Icon,
   Segment,
 } from 'semantic-ui-react';
 import { useTranslation } from 'react-i18next';
@@ -12,10 +10,7 @@ const Map = () => {
 
   return (
     <Segment className={style.container}>
-      <Header>
-        <Icon name='map' />
-        {t('map-label')}
-      </Header>
+      <iframe className={style.iframe} src='https://covid19.th-stat.com/th/share/map' title='map' />
     </Segment>
   );
 };
