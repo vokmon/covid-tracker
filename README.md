@@ -11,7 +11,7 @@ Key Techniques
 5. Language switching
 
 Screenshot
-![Example](link-to-image)
+![Example](https://github.com/vokmon/covid-tracker/blob/master/dashboard.png?raw=true)
 
 ## Available Scripts
 
