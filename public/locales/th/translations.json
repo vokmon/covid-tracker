@@ -1,0 +1,18 @@
+{
+  "today-label": "วันนี้",
+  "total-label": "รวม",
+  "confirmed-label": "ผู้ติดเชื้อ",
+  "recovered-label": "รักษาหาย",
+  "deaths-label": "เสียชีวิต",
+  "announcement-short-label": "ประกาศ",
+  "announcement-label": "แจ้งเตือนคำประกาศตามพื้นที่",
+  "close-action-label": "ปิด",
+  "summary-data-days": "ข้อมูลย้อนหลัง {{days}} วัน",
+  "case-summary-province": "{{num}} จังหวัดผู้ติดเชื้อสูงสุด",
+  "case-summary-nation": "ตามสัญชาติ",
+  "case-summary-gender": "เพศ",
+  "Male": "ชาย",
+  "Female": "หญิง",
+  "Unknown": "ไม่ระบุ",
+  "map-label": "ภูมิภาค"
+}

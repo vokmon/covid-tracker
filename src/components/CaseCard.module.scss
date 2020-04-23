@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+
+  .title {
+    text-align: left;
+    opacity: 0.8;
+  }
+
+  .number {
+    text-align: left;
+    font-size: 2em;
+    line-height: 1.5em;
+    font-weight: bold;
+  }
+}

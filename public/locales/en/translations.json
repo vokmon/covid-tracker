@@ -1,0 +1,18 @@
+{
+  "today-label": "Today",
+  "total-label": "Total",
+  "confirmed-label": "Confirmed",
+  "recovered-label": "Recovered",
+  "deaths-label": "Deaths",
+  "announcement-short-label": "Announcement",
+  "announcement-label": "Announcement",
+  "close-action-label": "Close",
+  "summary-data-days": "Data for {{days}} days",
+  "case-summary-province": "Top {{num}} provinces",
+  "case-summary-nation": "By nationality",
+  "case-summary-gender": "Gender",
+  "Male": "Male",
+  "Female": "Female",
+  "Unknown": "Unknown",
+  "map-label": "Map"
+}

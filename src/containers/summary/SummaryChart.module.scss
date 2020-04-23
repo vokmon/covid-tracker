@@ -1,0 +1,16 @@
+.container {
+  margin-top: 15px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media screen and (min-width: 1000px) {
+    width: 70% !important;
+  }
+
+  .title {
+    font-weight: bold;
+    opacity: 0.8;
+    font-size: 1.3em;
+  }
+}
