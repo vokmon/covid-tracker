@@ -9,6 +9,7 @@ Key Techniques
 3. Create custom hook to fetch data. This makes the components much cleaner. The logic to retrieve the data can be done in a separated file.
 4. Use css as a module
 5. Language switching
+6. Responsiveness
 
 Screenshot
 ![Example](https://github.com/vokmon/covid-tracker/blob/master/dashboard.png?raw=true)

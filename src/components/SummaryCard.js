@@ -16,7 +16,7 @@ const SummaryCard = ({
     <Segment textAlign='left'>
       <Grid columns={4} divided>
         <Grid.Row>
-          <Grid.Column width={3}>
+          <Grid.Column width={4}>
             <Label color={color} className={style.title}>
               {title}
             </Label>

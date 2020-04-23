@@ -5,6 +5,7 @@ import SummaryChart from './containers/summary/SummaryChart';
 import InformationPanel from './containers/summary/InformationPanel';
 import CasesSummary from './containers/summary/CasesSummary';
 import LanguageSelectorComponent from './containers/setup/LanguageSelector';
+import AppFooter from './components/Footer/AppFooter';
 
 import { InitialGlobalState } from './context/GlobalStateProvider';
 import useFetchAllData from './context/ContextFunctions';
@@ -17,17 +18,23 @@ function App() {
   return (
     <div className='App'>
       {loading ? (
-        <Loader />
+        <div className='ui active transition visible dimmer'>
+          <div className='content'>
+            <Loader>Loading</Loader>
+          </div>
+        </div>
       ) : (
         <Suspense fallback={null}>
-          <LanguageSelectorComponent />
-          <SummaryPanel />
-          <SummaryChart />
-          <CasesSummary />
-          <InformationPanel />
+          <div className='container'>
+            <LanguageSelectorComponent />
+            <SummaryPanel />
+            <SummaryChart />
+            <CasesSummary />
+            <InformationPanel />
+          </div>
+          <AppFooter />
         </Suspense>
       )}
-
     </div>
   );
 }

@@ -12,10 +12,16 @@ const SummaryChart = () => {
 
   const dataToShow = timelineData.slice(Math.max(timelineData.length - numberOfDays, 1));
 
+  const { innerWidth: width } = window;
+  let chartHeight = 190;
+  if (width > 1000) {
+    chartHeight = 90;
+  }
+
   return (
     <div className={style.container}>
       <Line
-        height={90}
+        height={chartHeight}
         options={{
           title: {
             display: true,

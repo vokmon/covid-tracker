@@ -1,4 +1,6 @@
 {
+  "app.logo": "/logo.png",
+  "app.footer.link": "http://www.sapapps.biz",
   "today-label": "Today",
   "total-label": "Total",
   "confirmed-label": "Confirmed",
