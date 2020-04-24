@@ -42,7 +42,13 @@ const Announcement = () => {
           <div className={style.announcementContent} dangerouslySetInnerHTML={{ __html: a.Recommend }} />
         </Container>
       ))}
-
+      {announcements.length === 0 ? (
+        <Container>
+          <Header size='small'>
+            {t('no-announcement-available')}
+          </Header>
+        </Container>
+      ) : null}
     </Segment>
   );
 };

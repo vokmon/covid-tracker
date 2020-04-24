@@ -15,5 +15,6 @@
   "case-summary-gender": "Gender",
   "Male": "Male",
   "Female": "Female",
-  "Unknown": "Unknown"
+  "Unknown": "Unknown",
+  "no-announcement-available": "No announcement"
 }

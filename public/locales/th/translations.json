@@ -15,5 +15,6 @@
   "case-summary-gender": "เพศ",
   "Male": "ชาย",
   "Female": "หญิง",
-  "Unknown": "ไม่ระบุ"
+  "Unknown": "ไม่ระบุ",
+  "no-announcement-available": "ยังไม่มีประกาศ"
 }
