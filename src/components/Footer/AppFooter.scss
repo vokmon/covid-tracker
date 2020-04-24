@@ -1,0 +1,14 @@
+.app-footer {
+  width: 100%;
+  background-color: black;
+  padding: 0.7em;
+
+  color: white;
+  display: flex;
+  justify-content: center;
+
+  .copyright {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+}

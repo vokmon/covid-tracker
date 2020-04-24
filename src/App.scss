@@ -1,5 +1,11 @@
 .App {
   text-align: center;
-  margin: 10px;
+
+  .container {
+    margin: 5px;
+    @media screen and (min-width: 1024px) {
+      margin: 15px;
+    }
+  }
 }
 

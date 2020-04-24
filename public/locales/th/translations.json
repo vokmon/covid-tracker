@@ -1,8 +1,10 @@
 {
+  "app.logo": "/logo.png",
+  "app.footer.link": "http://www.sapapps.biz",
   "today-label": "วันนี้",
   "total-label": "รวม",
   "confirmed-label": "ผู้ติดเชื้อ",
-  "recovered-label": "รักษาหาย",
+  "recovered-label": "หายแล้ว",
   "deaths-label": "เสียชีวิต",
   "announcement-short-label": "ประกาศ",
   "announcement-label": "แจ้งเตือนคำประกาศตามพื้นที่",
