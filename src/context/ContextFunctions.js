@@ -22,7 +22,7 @@ const useFetchAllData = () => {
         announcementPromise,
         casesSummaryPromise,
       ]);
-      actions.setData(timelineData.Data, todayData, announcement.Data, casesSummary);
+      actions.setData(timelineData.Data, todayData, announcement.Data || [], casesSummary);
       setLoading(false);
     };
     getData();
