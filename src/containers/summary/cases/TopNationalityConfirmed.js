@@ -10,10 +10,11 @@ const TopNationalityConfirmed = () => {
   const { data: { casesSummary: { Nation } } } = useGlobalStateContext();
 
   const keys = Object.keys(Nation).slice(0, numToShow);
-  const values = keys.map((k) => Nation[k]);
+  const values = keys.map((k) => Nation[k].Count);
+  const nations = keys.map((k) => Nation[k].Nation);
 
   const state = {
-    labels: keys,
+    labels: nations,
     datasets: [
       {
         borderColor: 'pink',

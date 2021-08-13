@@ -10,19 +10,19 @@ const useFetchAllData = () => {
     const getData = async () => {
       const timelineDataPromise = Service.getTimelineData();
       const todayDataPromise = Service.getTodayData();
-      const announcementPromise = Service.getAnnouncement();
+      // const announcementPromise = Service.getAnnouncement();
       const casesSummaryPromise = Service.getCasesSummary();
       const [timelineData,
         todayData,
-        announcement,
+        // announcement,
         casesSummary,
       ] = await Promise.all([
         timelineDataPromise,
         todayDataPromise,
-        announcementPromise,
+        // announcementPromise,
         casesSummaryPromise,
       ]);
-      actions.setData(timelineData.Data || [], todayData || {}, announcement.Data || [], casesSummary || {});
+      actions.setData(timelineData.Data || [], todayData || {}, [], casesSummary || {});
       setLoading(false);
     };
     getData();

@@ -10,9 +10,9 @@ const GenderPieChart = () => {
   const { data: { casesSummary: { Gender } } } = useGlobalStateContext();
 
   const keys = Object.keys(Gender);
-  const values = keys.map((k) => Gender[k]);
+  const values = keys.map((k) => Gender[k].Count);
+  const translatedKeys = keys.map((k) => `${t(k)} ${Gender[k].Gender}`);
 
-  const translatedKeys = keys.map((k) => `${t(k)} ${Gender[k]}`);
   const state = {
     labels: translatedKeys,
     datasets: [

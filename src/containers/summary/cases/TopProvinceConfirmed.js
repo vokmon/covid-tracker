@@ -10,10 +10,11 @@ const TopProvinceConfirmed = () => {
   const { data: { casesSummary: { Province } } } = useGlobalStateContext();
 
   const keys = Object.keys(Province).slice(0, numToShow);
-  const values = keys.map((k) => Province[k]);
+  const values = keys.map((k) => Province[k].Count);
+  const provinces = keys.map((k) => Province[k].Province);
 
   const state = {
-    labels: keys,
+    labels: provinces,
     datasets: [
       {
         borderColor: '#eaec2f',
