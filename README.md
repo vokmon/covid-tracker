@@ -1,3 +1,5 @@
+Demo https://thai-covid-tracker.netlify.app/
+
 Dashboard to display the information of Covid-19 situation in Thailand.
 All data is provided by https://covid19.th-stat.com/th/api.
 
