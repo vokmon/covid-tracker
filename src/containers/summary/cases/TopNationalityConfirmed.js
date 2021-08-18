@@ -30,6 +30,20 @@ const TopNationalityConfirmed = () => {
       data={state}
       height={140}
       options={{
+        scales: {
+          xAxes: [
+            {
+              ticks: {
+                callback: (label) => label.toLocaleString(),
+              },
+            },
+          ],
+        },
+        tooltips: {
+          callbacks: {
+            label: (tooltipItem) => tooltipItem.xLabel.toLocaleString(),
+          },
+        },
         title: {
           display: true,
           text: t('case-summary-nation', { num: numToShow }),

@@ -13,8 +13,9 @@
   "case-summary-province": "{{num}} จังหวัดผู้ติดเชื้อสูงสุด",
   "case-summary-nation": "ตามสัญชาติ",
   "case-summary-gender": "เพศ",
-  "Male": "ชาย",
-  "Female": "หญิง",
   "Unknown": "ไม่ระบุ",
+  "ชาย": "ชาย",
+  "หญิง": "หญิง",
+  "ไม่ระบุ": "ไม่ระบุ",
   "no-announcement-available": "ยังไม่มีประกาศ"
 }

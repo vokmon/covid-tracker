@@ -48,5 +48,4 @@ LanguageSelectorComponent.propTypes = {
   })).isRequired,
 };
 
-
 export default LanguageSelectorComponent;

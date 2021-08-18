@@ -28,6 +28,20 @@ const SummaryChart = () => {
             text: t('summary-data-days', { days: numberOfDays }),
             fontSize: 17,
           },
+          scales: {
+            yAxes: [
+              {
+                ticks: {
+                  callback: (label) => label.toLocaleString(),
+                },
+              },
+            ],
+          },
+          tooltips: {
+            callbacks: {
+              label: (tooltipItem) => tooltipItem.yLabel.toLocaleString(),
+            },
+          },
         }}
         data={{
           labels: dataToShow.map(({ Date }) => Date),

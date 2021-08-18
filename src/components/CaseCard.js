@@ -32,5 +32,4 @@ CaseCard.propTypes = {
   number: PropTypes.number,
 };
 
-
 export default CaseCard;

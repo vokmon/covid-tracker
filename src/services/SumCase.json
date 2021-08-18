@@ -1,0 +1,1580 @@
+{
+  "Province": [
+    {
+      "Province": "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23",
+      "ProvinceEn": "Bangkok",
+      "Count": 211278
+    },
+    {
+      "Province": "\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48",
+      "ProvinceEn": "Krabi",
+      "Count": 1228
+    },
+    {
+      "Province": "\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Kanchanaburi",
+      "Count": 6799
+    },
+    {
+      "Province": "\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c",
+      "ProvinceEn": "Kalasin",
+      "Count": 4858
+    },
+    {
+      "Province": "\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23",
+      "ProvinceEn": "Kamphaeng Phet",
+      "Count": 3959
+    },
+    {
+      "Province": "\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19",
+      "ProvinceEn": "Khon Kaen",
+      "Count": 6400
+    },
+    {
+      "Province": "\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Chanthaburi",
+      "Count": 3426
+    },
+    {
+      "Province": "\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32",
+      "ProvinceEn": "Chachoengsao",
+      "Count": 17123
+    },
+    {
+      "Province": "\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Chonburi",
+      "Count": 40607
+    },
+    {
+      "Province": "\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17",
+      "ProvinceEn": "Chainat",
+      "Count": 1457
+    },
+    {
+      "Province": "\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34",
+      "ProvinceEn": "Chaiyaphum",
+      "Count": 5079
+    },
+    {
+      "Province": "\u0e0a\u0e38\u0e21\u0e1e\u0e23",
+      "ProvinceEn": "Chumphon",
+      "Count": 1709
+    },
+    {
+      "Province": "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22",
+      "ProvinceEn": "Chiang Rai",
+      "Count": 2228
+    },
+    {
+      "Province": "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48",
+      "ProvinceEn": "Chiang Mai",
+      "Count": 9902
+    },
+    {
+      "Province": "\u0e15\u0e23\u0e31\u0e07",
+      "ProvinceEn": "Trang",
+      "Count": 2953
+    },
+    {
+      "Province": "\u0e15\u0e23\u0e32\u0e14",
+      "ProvinceEn": "Trat",
+      "Count": 1319
+    },
+    {
+      "Province": "\u0e15\u0e32\u0e01",
+      "ProvinceEn": "Tak",
+      "Count": 6921
+    },
+    {
+      "Province": "\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01",
+      "ProvinceEn": "Nakhon Nayok",
+      "Count": 4886
+    },
+    {
+      "Province": "\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21",
+      "ProvinceEn": "Nakhon Pathom",
+      "Count": 18285
+    },
+    {
+      "Province": "\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21",
+      "ProvinceEn": "Nakhon Phanom",
+      "Count": 3326
+    },
+    {
+      "Province": "\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32",
+      "ProvinceEn": "Nakhon Ratchasima",
+      "Count": 8899
+    },
+    {
+      "Province": "\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a",
+      "ProvinceEn": "Nakhon Si Thammarat",
+      "Count": 4907
+    },
+    {
+      "Province": "\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c",
+      "ProvinceEn": "Nakhon Sawan",
+      "Count": 5637
+    },
+    {
+      "Province": "\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Nonthaburi",
+      "Count": 41055
+    },
+    {
+      "Province": "\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a",
+      "ProvinceEn": "Narathiwat",
+      "Count": 8422
+    },
+    {
+      "Province": "\u0e19\u0e48\u0e32\u0e19",
+      "ProvinceEn": "Nan",
+      "Count": 1691
+    },
+    {
+      "Province": "\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c",
+      "ProvinceEn": "Bueng Kan",
+      "Count": 1119
+    },
+    {
+      "Province": "\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c",
+      "ProvinceEn": "Buriram",
+      "Count": 6018
+    },
+    {
+      "Province": "\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35",
+      "ProvinceEn": "Pathum Thani",
+      "Count": 27157
+    },
+    {
+      "Province": "\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c",
+      "ProvinceEn": "Prachuap Khiri Khan",
+      "Count": 5905
+    },
+    {
+      "Province": "\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Prachinburi",
+      "Count": 4359
+    },
+    {
+      "Province": "\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35",
+      "ProvinceEn": "Pattani",
+      "Count": 11631
+    },
+    {
+      "Province": "\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32",
+      "ProvinceEn": "Phra Nakhon Si Ayutthaya",
+      "Count": 12499
+    },
+    {
+      "Province": "\u0e1e\u0e30\u0e40\u0e22\u0e32",
+      "ProvinceEn": "Phayao",
+      "Count": 1297
+    },
+    {
+      "Province": "\u0e1e\u0e31\u0e07\u0e07\u0e32",
+      "ProvinceEn": "Phang Nga",
+      "Count": 775
+    },
+    {
+      "Province": "\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07",
+      "ProvinceEn": "Phatthalung",
+      "Count": 1897
+    },
+    {
+      "Province": "\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23",
+      "ProvinceEn": "Phichit",
+      "Count": 2290
+    },
+    {
+      "Province": "\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01",
+      "ProvinceEn": "Phitsanulok",
+      "Count": 2544
+    },
+    {
+      "Province": "\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Phetchaburi",
+      "Count": 13202
+    },
+    {
+      "Province": "\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c",
+      "ProvinceEn": "Phetchabun",
+      "Count": 3257
+    },
+    {
+      "Province": "\u0e41\u0e1e\u0e23\u0e48",
+      "ProvinceEn": "Phrae",
+      "Count": 953
+    },
+    {
+      "Province": "\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15",
+      "ProvinceEn": "Phuket",
+      "Count": 1785
+    },
+    {
+      "Province": "\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21",
+      "ProvinceEn": "Maha Sarakham",
+      "Count": 6113
+    },
+    {
+      "Province": "\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23",
+      "ProvinceEn": "Mukdahan",
+      "Count": 1306
+    },
+    {
+      "Province": "\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19",
+      "ProvinceEn": "Mae Hong Son",
+      "Count": 234
+    },
+    {
+      "Province": "\u0e22\u0e42\u0e2a\u0e18\u0e23",
+      "ProvinceEn": "Yasothon",
+      "Count": 2845
+    },
+    {
+      "Province": "\u0e22\u0e30\u0e25\u0e32",
+      "ProvinceEn": "Yala",
+      "Count": 8829
+    },
+    {
+      "Province": "\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14",
+      "ProvinceEn": "Roi Et",
+      "Count": 6830
+    },
+    {
+      "Province": "\u0e23\u0e30\u0e19\u0e2d\u0e07",
+      "ProvinceEn": "Ranong",
+      "Count": 2992
+    },
+    {
+      "Province": "\u0e23\u0e30\u0e22\u0e2d\u0e07",
+      "ProvinceEn": "Rayong",
+      "Count": 11019
+    },
+    {
+      "Province": "\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Ratchaburi",
+      "Count": 8229
+    },
+    {
+      "Province": "\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Lopburi",
+      "Count": 6801
+    },
+    {
+      "Province": "\u0e25\u0e33\u0e1b\u0e32\u0e07",
+      "ProvinceEn": "Lampang",
+      "Count": 1720
+    },
+    {
+      "Province": "\u0e25\u0e33\u0e1e\u0e39\u0e19",
+      "ProvinceEn": "Lamphun",
+      "Count": 831
+    },
+    {
+      "Province": "\u0e40\u0e25\u0e22",
+      "ProvinceEn": "Loei",
+      "Count": 1736
+    },
+    {
+      "Province": "\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29",
+      "ProvinceEn": "Sisaket",
+      "Count": 6703
+    },
+    {
+      "Province": "\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23",
+      "ProvinceEn": "Sakon Nakhon",
+      "Count": 4284
+    },
+    {
+      "Province": "\u0e2a\u0e07\u0e02\u0e25\u0e32",
+      "ProvinceEn": "Songkhla",
+      "Count": 15087
+    },
+    {
+      "Province": "\u0e2a\u0e15\u0e39\u0e25",
+      "ProvinceEn": "Satun",
+      "Count": 977
+    },
+    {
+      "Province": "\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23",
+      "ProvinceEn": "Samut Prakan",
+      "Count": 53175
+    },
+    {
+      "Province": "\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21",
+      "ProvinceEn": "Samut Songkhram",
+      "Count": 4474
+    },
+    {
+      "Province": "\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23",
+      "ProvinceEn": "Samut Sakhon",
+      "Count": 64647
+    },
+    {
+      "Province": "\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27",
+      "ProvinceEn": "Sa Kaeo",
+      "Count": 5727
+    },
+    {
+      "Province": "\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Saraburi",
+      "Count": 12101
+    },
+    {
+      "Province": "\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Sing Buri",
+      "Count": 1372
+    },
+    {
+      "Province": "\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22",
+      "ProvinceEn": "Sukhothai",
+      "Count": 3374
+    },
+    {
+      "Province": "\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35",
+      "ProvinceEn": "Suphan Buri",
+      "Count": 7713
+    },
+    {
+      "Province": "\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35",
+      "ProvinceEn": "Surat Thani",
+      "Count": 4099
+    },
+    {
+      "Province": "\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+      "ProvinceEn": "Surin",
+      "Count": 6657
+    },
+    {
+      "Province": "\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22",
+      "ProvinceEn": "Nong Khai",
+      "Count": 1477
+    },
+    {
+      "Province": "\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39",
+      "ProvinceEn": "Nong Bua Lamphu",
+      "Count": 2038
+    },
+    {
+      "Province": "\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07",
+      "ProvinceEn": "Ang Thong",
+      "Count": 5200
+    },
+    {
+      "Province": "\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d",
+      "ProvinceEn": "Amnat Charoen",
+      "Count": 1531
+    },
+    {
+      "Province": "\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35",
+      "ProvinceEn": "Udon Thani",
+      "Count": 6363
+    },
+    {
+      "Province": "\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c",
+      "ProvinceEn": "Uttaradit",
+      "Count": 2301
+    },
+    {
+      "Province": "\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35",
+      "ProvinceEn": "Uthai Thani",
+      "Count": 1691
+    },
+    {
+      "Province": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+      "ProvinceEn": "Ubon Ratchathani",
+      "Count": 8731
+    },
+    {
+      "Province": "\u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+      "ProvinceEn": "Unknown",
+      "Count": 6837
+    },
+    {
+      "Province": "Unknown",
+      "ProvinceEn": "Unknown",
+      "Count": 0
+    }
+  ],
+  "Nation": [
+    {
+      "Nation": "\u0e44\u0e17\u0e22",
+      "NationEn": null,
+      "Count": 610980
+    },
+    {
+      "Nation": "Unknown",
+      "NationEn": "Unknown",
+      "Count": 82129
+    },
+    {
+      "Nation": "Burmese",
+      "NationEn": null,
+      "Count": 77890
+    },
+    {
+      "Nation": "Cambodian",
+      "NationEn": null,
+      "Count": 14928
+    },
+    {
+      "Nation": "Thaland",
+      "NationEn": null,
+      "Count": 11528
+    },
+    {
+      "Nation": "Laotian\/Lao",
+      "NationEn": null,
+      "Count": 3708
+    },
+    {
+      "Nation": "Cambodia",
+      "NationEn": null,
+      "Count": 830
+    },
+    {
+      "Nation": "Laos",
+      "NationEn": null,
+      "Count": 758
+    },
+    {
+      "Nation": "Chinese",
+      "NationEn": null,
+      "Count": 470
+    },
+    {
+      "Nation": "Indian",
+      "NationEn": null,
+      "Count": 255
+    },
+    {
+      "Nation": "India",
+      "NationEn": null,
+      "Count": 226
+    },
+    {
+      "Nation": "China",
+      "NationEn": null,
+      "Count": 195
+    },
+    {
+      "Nation": "Guinea",
+      "NationEn": null,
+      "Count": 185
+    },
+    {
+      "Nation": "Japan",
+      "NationEn": null,
+      "Count": 155
+    },
+    {
+      "Nation": "UnitedKingdom",
+      "NationEn": null,
+      "Count": 151
+    },
+    {
+      "Nation": "Guinean",
+      "NationEn": null,
+      "Count": 137
+    },
+    {
+      "Nation": "UnitedStatesofAmerica",
+      "NationEn": null,
+      "Count": 132
+    },
+    {
+      "Nation": "France",
+      "NationEn": null,
+      "Count": 96
+    },
+    {
+      "Nation": "Philippines",
+      "NationEn": null,
+      "Count": 91
+    },
+    {
+      "Nation": "Vietnamese",
+      "NationEn": null,
+      "Count": 84
+    },
+    {
+      "Nation": "Russia",
+      "NationEn": null,
+      "Count": 78
+    },
+    {
+      "Nation": "Filipino",
+      "NationEn": null,
+      "Count": 72
+    },
+    {
+      "Nation": "Vietnam",
+      "NationEn": null,
+      "Count": 69
+    },
+    {
+      "Nation": "Germany",
+      "NationEn": null,
+      "Count": 69
+    },
+    {
+      "Nation": "Japanese",
+      "NationEn": null,
+      "Count": 67
+    },
+    {
+      "Nation": "Other",
+      "NationEn": null,
+      "Count": 64
+    },
+    {
+      "Nation": "American",
+      "NationEn": null,
+      "Count": 62
+    },
+    {
+      "Nation": "SouthKorean",
+      "NationEn": null,
+      "Count": 54
+    },
+    {
+      "Nation": "Pakistan",
+      "NationEn": null,
+      "Count": 52
+    },
+    {
+      "Nation": "Malaysian",
+      "NationEn": null,
+      "Count": 47
+    },
+    {
+      "Nation": "Korea,South",
+      "NationEn": null,
+      "Count": 43
+    },
+    {
+      "Nation": "French",
+      "NationEn": null,
+      "Count": 43
+    },
+    {
+      "Nation": "British\/English",
+      "NationEn": null,
+      "Count": 41
+    },
+    {
+      "Nation": "Ghana",
+      "NationEn": null,
+      "Count": 39
+    },
+    {
+      "Nation": "Malaysia",
+      "NationEn": null,
+      "Count": 39
+    },
+    {
+      "Nation": "Switzerland",
+      "NationEn": null,
+      "Count": 37
+    },
+    {
+      "Nation": "Netherlands",
+      "NationEn": null,
+      "Count": 37
+    },
+    {
+      "Nation": "Pakistani",
+      "NationEn": null,
+      "Count": 36
+    },
+    {
+      "Nation": "Italy",
+      "NationEn": null,
+      "Count": 35
+    },
+    {
+      "Nation": "Kuwait",
+      "NationEn": null,
+      "Count": 32
+    },
+    {
+      "Nation": "Indonesian",
+      "NationEn": null,
+      "Count": 32
+    },
+    {
+      "Nation": "Canada",
+      "NationEn": null,
+      "Count": 32
+    },
+    {
+      "Nation": "German",
+      "NationEn": null,
+      "Count": 31
+    },
+    {
+      "Nation": "Taiwanese",
+      "NationEn": null,
+      "Count": 31
+    },
+    {
+      "Nation": "Luxembourg",
+      "NationEn": null,
+      "Count": 28
+    },
+    {
+      "Nation": "British",
+      "NationEn": null,
+      "Count": 28
+    },
+    {
+      "Nation": "Indonesia",
+      "NationEn": null,
+      "Count": 28
+    },
+    {
+      "Nation": "Sweden",
+      "NationEn": null,
+      "Count": 26
+    },
+    {
+      "Nation": "thailand",
+      "NationEn": null,
+      "Count": 26
+    },
+    {
+      "Nation": "Australia",
+      "NationEn": null,
+      "Count": 25
+    },
+    {
+      "Nation": "Russian",
+      "NationEn": null,
+      "Count": 23
+    },
+    {
+      "Nation": "\u0e15\u0e48\u0e32\u0e07\u0e14\u0e49\u0e32\u0e27",
+      "NationEn": null,
+      "Count": 21
+    },
+    {
+      "Nation": "Belgium",
+      "NationEn": null,
+      "Count": 21
+    },
+    {
+      "Nation": "Nigeria",
+      "NationEn": null,
+      "Count": 19
+    },
+    {
+      "Nation": "Norway",
+      "NationEn": null,
+      "Count": 19
+    },
+    {
+      "Nation": "Bangladesh",
+      "NationEn": null,
+      "Count": 19
+    },
+    {
+      "Nation": "Australian",
+      "NationEn": null,
+      "Count": 18
+    },
+    {
+      "Nation": "Singapore",
+      "NationEn": null,
+      "Count": 17
+    },
+    {
+      "Nation": "Iran",
+      "NationEn": null,
+      "Count": 16
+    },
+    {
+      "Nation": "Ethiopia",
+      "NationEn": null,
+      "Count": 15
+    },
+    {
+      "Nation": "Italian",
+      "NationEn": null,
+      "Count": 14
+    },
+    {
+      "Nation": "Dutch",
+      "NationEn": null,
+      "Count": 14
+    },
+    {
+      "Nation": "Canadian",
+      "NationEn": null,
+      "Count": 14
+    },
+    {
+      "Nation": "Sudan",
+      "NationEn": null,
+      "Count": 13
+    },
+    {
+      "Nation": "Ghanaian",
+      "NationEn": null,
+      "Count": 13
+    },
+    {
+      "Nation": "SouthAfrica",
+      "NationEn": null,
+      "Count": 13
+    },
+    {
+      "Nation": "Danish",
+      "NationEn": null,
+      "Count": 13
+    },
+    {
+      "Nation": "Singaporean",
+      "NationEn": null,
+      "Count": 13
+    },
+    {
+      "Nation": "Nepalese\/Nepali",
+      "NationEn": null,
+      "Count": 13
+    },
+    {
+      "Nation": "Israel",
+      "NationEn": null,
+      "Count": 12
+    },
+    {
+      "Nation": "Taiwan",
+      "NationEn": null,
+      "Count": 12
+    },
+    {
+      "Nation": "Ireland",
+      "NationEn": null,
+      "Count": 11
+    },
+    {
+      "Nation": "Nepal",
+      "NationEn": null,
+      "Count": 11
+    },
+    {
+      "Nation": "Ukraine",
+      "NationEn": null,
+      "Count": 11
+    },
+    {
+      "Nation": "Brazil",
+      "NationEn": null,
+      "Count": 11
+    },
+    {
+      "Nation": "Iranian",
+      "NationEn": null,
+      "Count": 10
+    },
+    {
+      "Nation": "Kuwaiti",
+      "NationEn": null,
+      "Count": 10
+    },
+    {
+      "Nation": "Myanmar",
+      "NationEn": null,
+      "Count": 10
+    },
+    {
+      "Nation": "Turkish",
+      "NationEn": null,
+      "Count": 9
+    },
+    {
+      "Nation": "Denmark",
+      "NationEn": null,
+      "Count": 9
+    },
+    {
+      "Nation": "Poland",
+      "NationEn": null,
+      "Count": 9
+    },
+    {
+      "Nation": "Turkey",
+      "NationEn": null,
+      "Count": 9
+    },
+    {
+      "Nation": "Bangladeshi",
+      "NationEn": null,
+      "Count": 9
+    },
+    {
+      "Nation": "Egypt",
+      "NationEn": null,
+      "Count": 9
+    },
+    {
+      "Nation": "Swiss",
+      "NationEn": null,
+      "Count": 9
+    },
+    {
+      "Nation": "Nigerian",
+      "NationEn": null,
+      "Count": 8
+    },
+    {
+      "Nation": "Romania",
+      "NationEn": null,
+      "Count": 8
+    },
+    {
+      "Nation": "Emirati",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "Swedish",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "Belgian",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "Oman",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "\u0e44\u0e21\u0e48\u0e23\u0e30\u0e1a\u0e38",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "Czechia",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "Cameroon",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "SouthAfrican",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "Israeli",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "Finland",
+      "NationEn": null,
+      "Count": 7
+    },
+    {
+      "Nation": "UnitedArabEmirates",
+      "NationEn": null,
+      "Count": 6
+    },
+    {
+      "Nation": "Malian",
+      "NationEn": null,
+      "Count": 6
+    },
+    {
+      "Nation": "Austria",
+      "NationEn": null,
+      "Count": 6
+    },
+    {
+      "Nation": "Kazakhstan",
+      "NationEn": null,
+      "Count": 6
+    },
+    {
+      "Nation": "Colombian",
+      "NationEn": null,
+      "Count": 6
+    },
+    {
+      "Nation": "Spain",
+      "NationEn": null,
+      "Count": 6
+    },
+    {
+      "Nation": "Uganda",
+      "NationEn": null,
+      "Count": 5
+    },
+    {
+      "Nation": "Lithuania",
+      "NationEn": null,
+      "Count": 5
+    },
+    {
+      "Nation": "NewZealand",
+      "NationEn": null,
+      "Count": 5
+    },
+    {
+      "Nation": "Qatar",
+      "NationEn": null,
+      "Count": 5
+    },
+    {
+      "Nation": "Kenya",
+      "NationEn": null,
+      "Count": 5
+    },
+    {
+      "Nation": "\u0e1e\u0e21\u0e48\u0e32",
+      "NationEn": null,
+      "Count": 5
+    },
+    {
+      "Nation": "Syria",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Serbia",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Polish",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Afghan\/Afghani",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Hungary",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Iraq",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "SriLanka",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Iceland",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "AmericanSamoa",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Yemen",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "HongKong",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Mali",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Portugal",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Bulgaria",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Colombia",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Estonia",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Albania",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Zimbabwe",
+      "NationEn": null,
+      "Count": 4
+    },
+    {
+      "Nation": "Nicaragua",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Irish",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Egyptian",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2a\u0e31\u0e0d\u0e0a\u0e32\u0e15\u0e34",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Spanish",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "SriLankan",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Austrian",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Lebanon",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "African",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Maldivian",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "CoteD'Ivoire",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Uzbekistan",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Afghanistan",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Tanzanian",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Finnish",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Norwegian",
+      "NationEn": null,
+      "Count": 3
+    },
+    {
+      "Nation": "Mexico",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Syrian",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Serbian",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Tunisia",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Kenyan",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Lao",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Greece",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Libya",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Belarus",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Palestinian",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Hungarian",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Ivorian",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Romanian",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Eritrea",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Argentina",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Mongolian",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "NorthKorean",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Bahrain",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Portuguese",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Icelandic",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Brazilian",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Mongolia",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Tanzania",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "FrenchGuiana",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Brunei",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "\u0e25\u0e32\u0e27",
+      "NationEn": null,
+      "Count": 2
+    },
+    {
+      "Nation": "Senegal",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Americans",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Algerian",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Jordanian",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Moroccan",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Iraqi",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Timorese",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Argentine",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "L",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Kazakh\/Kazakhstani",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Greek",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Yemeni\/Yemenite",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Uzbek",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Mauritians",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Oatari",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e44\u0e19\u0e08\u0e35\u0e40\u0e23\u0e35\u0e22",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Czech",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e08\u0e35\u0e19",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "congo",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Algeria",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Somalia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e44\u0e17\u0e22\u0e43\u0e2b\u0e0d\u0e48",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Slovenia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Croatia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Mauritius",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "SierraLeone",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Armenia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Latvia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Kyrgyzstan",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e44\u0e17\u0e43\u0e2b\u0e0d\u0e48",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Jordan",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Palestine",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Liberia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "India-Thailand",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Laotian",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Macedonia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "deutsch",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Maldives",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Azerbaijan",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Kosovo",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Tajikistan",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Gambia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "DominicanRepublic",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Malawi",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Guyanese",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Timor-Leste",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Haitian",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Guyana",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Venezuelan",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Gambia,The",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e04\u0e39\u0e40\u0e27\u0e15",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Namibia",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Cuba",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Bermuda",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Malta",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Congo(Brazzaville)",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e2d\u0e40\u0e21\u0e23\u0e34\u0e01\u0e31\u0e19",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "\u0e2d\u0e40\u0e21\u0e23\u0e34\u0e01\u0e32",
+      "NationEn": null,
+      "Count": 1
+    },
+    {
+      "Nation": "Ugandan",
+      "NationEn": null,
+      "Count": 1
+    }
+  ],
+  "Gender": [
+    {
+      "Gender": "\u0e2b\u0e0d\u0e34\u0e07",
+      "GenderEn": null,
+      "Count": 384539
+    },
+    {
+      "Gender": "\u0e0a\u0e32\u0e22",
+      "GenderEn": null,
+      "Count": 371076
+    },
+    {
+      "Gender": "Unknown",
+      "GenderEn": "Unknown",
+      "Count": 51471
+    }
+  ],
+  "MinAge": 0.01,
+  "MaxAge": 109,
+  "AvgAge": 36,
+  "LastData": "2021-08-11 00:00:00",
+  "UpdateDate": "11\/08\/2021",
+  "Source": "https:\/\/data.go.th\/dataset\/covid-19-daily",
+  "DevBy": "https:\/\/www.kidkarnmai.com\/"
+}
