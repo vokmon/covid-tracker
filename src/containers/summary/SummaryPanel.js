@@ -8,16 +8,18 @@ import style from './SummaryPanel.module.scss';
 const SummaryPanel = () => {
   const { t } = useTranslation();
   const { data: { todaySummary } } = useGlobalStateContext();
+
+  const todaySummaryElement = todaySummary[0];
   const todayData = {
-    confirmed: todaySummary.NewConfirmed,
-    recovered: todaySummary.NewRecovered,
-    deaths: todaySummary.NewDeaths,
+    confirmed: todaySummaryElement.new_case,
+    recovered: todaySummaryElement.new_recovered,
+    deaths: todaySummaryElement.new_death,
   };
 
   const totalData = {
-    confirmed: todaySummary.Confirmed,
-    recovered: todaySummary.Recovered,
-    deaths: todaySummary.Deaths,
+    confirmed: todaySummaryElement.total_case,
+    recovered: todaySummaryElement.total_recovered,
+    deaths: todaySummaryElement.total_death,
   };
 
   return (

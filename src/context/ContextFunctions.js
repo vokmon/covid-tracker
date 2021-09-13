@@ -11,7 +11,7 @@ const useFetchAllData = () => {
       const timelineDataPromise = Service.getTimelineData();
       const todayDataPromise = Service.getTodayData();
       // const announcementPromise = Service.getAnnouncement();
-      const casesSummaryPromise = Service.getCasesSummary();
+      // const casesSummaryPromise = Service.getCasesSummary();
       const [timelineData,
         todayData,
         // announcement,
@@ -20,9 +20,9 @@ const useFetchAllData = () => {
         timelineDataPromise,
         todayDataPromise,
         // announcementPromise,
-        casesSummaryPromise,
+        // casesSummaryPromise,
       ]);
-      actions.setData(timelineData.Data || [], todayData || {}, [], casesSummary || {});
+      actions.setData(timelineData || [], todayData || {}, [], casesSummary || {});
       setLoading(false);
     };
     getData();

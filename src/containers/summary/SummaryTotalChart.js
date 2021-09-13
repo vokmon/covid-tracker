@@ -8,14 +8,14 @@ const numberOfDays = 30;
 
 const SummaryChart = () => {
   const { t } = useTranslation();
-  const { data: { timelineData } } = useGlobalStateContext();
-
+  const { data: data1 } = useGlobalStateContext();
+  const { timelineData } = data1;
   const dataToShow = timelineData.slice(Math.max(timelineData.length - numberOfDays, 1));
 
   const { innerWidth: width } = window;
-  let chartHeight = 190;
+  let chartHeight = 180;
   if (width > 1000) {
-    chartHeight = 90;
+    chartHeight = 80;
   }
 
   return (
@@ -44,24 +44,24 @@ const SummaryChart = () => {
           },
         }}
         data={{
-          labels: dataToShow.map(({ Date }) => Date),
+          labels: dataToShow.map(({ txn_date: date }) => date),
           datasets: [
             {
-              data: dataToShow.map((data) => data.Deaths),
+              data: dataToShow.map((data) => data.total_death),
               label: t('deaths-label'),
               borderColor: 'red',
               backgroundColor: 'rgba(255, 127, 127, 0.5)',
               fill: true,
             },
             {
-              data: dataToShow.map((data) => data.Recovered),
+              data: dataToShow.map((data) => data.total_recovered),
               label: t('recovered-label'),
               borderColor: '#7fff7f',
               backgroundColor: 'rgba(127, 255, 127, 0.5)',
               fill: true,
             },
             {
-              data: dataToShow.map((data) => data.Confirmed),
+              data: dataToShow.map((data) => data.total_case),
               label: t('confirmed-label'),
               borderColor: '#7f7fff',
               backgroundColor: 'rgba(127, 127, 255, 0.5)',

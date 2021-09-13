@@ -1,9 +1,9 @@
 import React, { Suspense } from 'react';
 import { Loader } from 'semantic-ui-react';
 import SummaryPanel from './containers/summary/SummaryPanel';
-import SummaryChart from './containers/summary/SummaryChart';
+import SummaryTotalChart from './containers/summary/SummaryTotalChart';
 // import InformationPanel from './containers/summary/InformationPanel';
-import CasesSummary from './containers/summary/CasesSummary';
+// import CasesSummary from './containers/summary/CasesSummary';
 import LanguageSelectorComponent from './containers/setup/LanguageSelector';
 // import AppFooter from './components/Footer/AppFooter';
 
@@ -11,6 +11,7 @@ import { InitialGlobalState } from './context/GlobalStateProvider';
 import useFetchAllData from './context/ContextFunctions';
 import './config/i18n';
 import './App.scss';
+import SummaryDailyChart from './containers/summary/SummaryDailyChart';
 
 function App() {
   InitialGlobalState();
@@ -28,8 +29,9 @@ function App() {
           <div className='container'>
             <LanguageSelectorComponent />
             <SummaryPanel />
-            <SummaryChart />
-            <CasesSummary />
+            <SummaryTotalChart />
+            <SummaryDailyChart />
+            {/* <CasesSummary /> */}
             {/* <InformationPanel /> */}
           </div>
           {/* <AppFooter /> */}

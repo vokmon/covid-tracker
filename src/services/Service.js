@@ -6,7 +6,7 @@ import axios from 'axios';
 export default {
   // eslint-disable-next-line arrow-body-style
   getTodayData: async () => {
-    const url = 'https://covid19.th-stat.com/json/covid19v2/getTodayCases.json';
+    const url = 'https://covid19.ddc.moph.go.th/api/Cases/today-cases-all';
     const response = await axios.get(url);
     return response.data;
     // return TodayData;
@@ -14,7 +14,7 @@ export default {
 
   // eslint-disable-next-line arrow-body-style
   getTimelineData: async () => {
-    const url = 'https://covid19.th-stat.com/json/covid19v2/getTimeline.json';
+    const url = 'https://covid19.ddc.moph.go.th/api/Cases/timeline-cases-all';
     const response = await axios.get(url);
     return response.data;
     // return TimelineData;
