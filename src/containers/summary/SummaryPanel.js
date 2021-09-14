@@ -7,9 +7,9 @@ import style from './SummaryPanel.module.scss';
 
 const SummaryPanel = () => {
   const { t } = useTranslation();
-  const { data: { todaySummary } } = useGlobalStateContext();
+  const { data: { todaySummary, timelineData } } = useGlobalStateContext();
 
-  const todaySummaryElement = todaySummary[0];
+  const todaySummaryElement = todaySummary[0] || timelineData[timelineData.length - 1];
   const todayData = {
     confirmed: todaySummaryElement.new_case,
     recovered: todaySummaryElement.new_recovered,
