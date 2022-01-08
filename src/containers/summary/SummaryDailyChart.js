@@ -15,7 +15,7 @@ const SummaryDailyChart = () => {
   const { innerWidth: width } = window;
   let chartHeight = 180;
   if (width > 1000) {
-    chartHeight = 80;
+    chartHeight = '150';
   }
 
   return (
