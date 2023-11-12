@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "chart.js": "^2.9.4",
     "i18next": "^20.4.0",
     "i18next-xhr-backend": "^3.2.2",
